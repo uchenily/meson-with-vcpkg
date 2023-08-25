@@ -5,7 +5,6 @@
   "dependencies": [
     "zlib",
     "fmt",
-    "double-conversion",
     "pkgconf"
   ]
 }
