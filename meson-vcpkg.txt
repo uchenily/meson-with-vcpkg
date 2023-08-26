@@ -1,6 +1,6 @@
 [constants]
-vcpkg_base_path = '/path-to-your/vcpkg/'
-vcpkg_base_install_dir = '/path-to-your/meson-vcpkg/vcpkg_installed/'
+vcpkg_base_path = '/root/github/vcpkg/'
+vcpkg_base_install_dir = '/root/learn-vcpkg/meson-vcpkg/vcpkg_installed/'
 vcpkg_target_triplet = 'x64-linux/'
 vcpkg_host_triplet = 'x64-linux/'
 vcpkg_installed_dir = vcpkg_base_install_dir + vcpkg_target_triplet
